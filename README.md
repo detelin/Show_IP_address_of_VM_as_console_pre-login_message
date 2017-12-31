@@ -1,4 +1,4 @@
-# Show_IP_address_of_VM_as_console_pre-login_message
+# Show interface IP address at boot on the console with CentOS/RHEL7
 
 
 In case you didn’t know the pre-login message you see at a Linux console typically comes from /etc/issue
